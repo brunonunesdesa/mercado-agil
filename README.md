@@ -7,5 +7,5 @@ O mesmo visa ajudar as pessoas a se organizarem durante suas compras no supermer
 
 
 **Equipe atual**
-- Lucas Bortolatto - [Github](https://github.com/bortolattolucas)
-- Bruno Nunes - [Github](https://github.com/bortolattolucas)
+- Lucas Bortolatto - [:octocat:](https://github.com/bortolattolucas)
+- Bruno Nunes - [:octocat:](https://github.com/brunonunesdesa)
