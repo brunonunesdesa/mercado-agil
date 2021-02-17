@@ -8,7 +8,7 @@ O mesmo visa ajudar as pessoas a se organizarem durante suas compras no supermer
 
 **Equipe atual**
 - Lucas Bortolatto - :octocat: [Github](https://github.com/bortolattolucas)
-- Bruno Nunes - :octocat: [Github](https://github.com/brunonunesdesa)
+- Bruno Nunes de Sá - :octocat: [Github](https://github.com/brunonunesdesa)
 
 ## Rodando o app na sua máquina
 
